@@ -13,6 +13,7 @@
       padding:20px;
     }
 
+
     .search-form {
       max-width:400px;
       margin:50px auto;
@@ -78,3 +79,12 @@
       background:rgba(0,0,0,0.1);
       text-decoration: none;
     }
+
+
+
+.format{
+  display:flex;
+  margin:0;
+  align-content: center;
+  justify-content: center;
+}
